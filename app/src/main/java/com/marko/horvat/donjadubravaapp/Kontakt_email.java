@@ -65,7 +65,7 @@ public class Kontakt_email extends AppCompatActivity {
 
         intent2.setType("plain/text");
         intent2.putExtra(Intent.EXTRA_EMAIL, new String[]{"opcina-donja-dubrava@ck.htnet.hr"});
-        intent2.putExtra(Intent.EXTRA_SUBJECT, "");
+        intent2.putExtra(Intent.EXTRA_SUBJECT, "Potrebna pomoć:");
 
 
         startActivity(Intent.createChooser(intent2, "Odaberite Vaš e-mail klijent"));
