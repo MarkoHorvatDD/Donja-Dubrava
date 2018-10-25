@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/grbpovijest2"
+    android:orientation="vertical"
+
+    tools:context=".PovijestFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="232dp"
+        android:background="@drawable/parknegda" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        >
+
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:layout_marginTop="0dp"
+
+
+            android:lineSpacingExtra="8sp"
+            android:text='                                             POVIJEST
+
+\n\n          Općinu čini samo naselje Donja Dubrava u kojoj je 755 domaćinstava i 2263 stanovnik.  Mjesto je smješteno u kutu međimurskog trokuta na samoj rijeci Dravi, blizu ušća Mure. Naziv dobiva po gustoj šumi dobravi, dubravi, kakva je postojala ovdje uz sastajalište dviju rijeka. Naravno, prošlost i razvoj Dobrave, kakav je tradicionalan naziv, blisko su vezani uz rijeku Dravu. \n        Spomenimo mlinare, ribare, šajkaše (trgovce vodenim putovima), zlatare (zlato se tu ispiralo već u 15. st.) te posebno izdvojimo fljojsare, ljude koji su vodom dopremali trupce (vezane kao malu splav). Drvo se prerađivalo u Donjoj Dubravi ili je putovalo vodom do Osijeka ili vlakom do Kotoribe, pa u Mađarsku.\n   Geografski položaj mjesta uvjetovao je svekoliki gospodarski razvoj. Posebno je zaslužna tvrtka Ujlaki-Hirschler, utemeljena još 1828. godine. \n \n              Koncem 19. st. u Donjoj Dubravu postoje ambulanta, ljekarna, kasino, niz cehovskih udruženja - još 1950. g. u mjestu je radilo 60 obrtnika obućara. Pored gospodarstva, obitelj Hirschler ostavila je za sobom i izgrađeno središte trgovišta u klasicističkom stilu: zgrada stare škole, palača Zalan, zgrada današnje ambulante, te raskošan perivoj. U crkvenim se knjigama Donja Dubrava javlja razmjerno kasno, jer je do 1789. g. bila pod donjovidovečkom (bistričkom) župom. Sredinom 18. st., mještani podižu zidanu crkvu svete Margarete, na mjesto prijašnje drvene. No, ta crkva više ne postoji zbog šteta u potresima 1827. i 1880. godine. Morala je biti zatvorena, a potom i srušena 1912. Župljani su današnju crkvu dogotovili 1940. u samom centru mjesta. Donja Dubrava je do danas očuvala obilježja trgovišta svojom vanjskom arhitektonskom slikom. Osim toga Dubrava je čvorište putova čakovec, Prelog à Koprivnica, Ludbreg i obrnuto Koprivnica à Prelog, Goričan, čakovec, Varaždin.  Najveći ostvaren projekt na Dravi nosi naziv Dubrava, dakako to je HE Dubrava. Većina mještana nezadovoljna je izgradnjom ovakvog megalomanskog projekta u samoj blizini. HE Dubrava stalna je prijetnja svim stanovnicima Donjeg Međimurja. U gospodarstvu se osjeća razmah privatnog poduzetništva i obrtništva koje se na sreću čvrsto zadržalo. U Donjoj Dubravi djeluje osamdesetak poduzetnika i obrtnika. Tu je zastupljeno gro usluga i proizvoda, od poljoprivrede, trgovine, proizvodnje obuće, plastike i aluminijske galanterije preko obrade drva, stakla pa sve do ugostiteljskih usluga i drugog... Od sportskih klubova Dobravčani su aktivni u nogometnom, kuglačkom, teniskom i košarkaškom klubu. Svi oni nose naziv "Dubravčan". \n \n                  Donja Dubrava je rearitet po brojnosti nevladinih, nepolitičkih udruženja građana. U općini djeluju: Športsko-ribolovna udruga "Štuka", Udruga za zaštitu malih životinja "Međimurska Lastavica", Udruga žena, Udruga umirovljenika, HVIDRA, Udruga obrtnika i poduzetnika, Zaštitarsko-ekološka udruga "Senjar"-ZEUS... Pučka škola u Dobravi djelovala je još u 18. st., godine 1857. tu školu pohađa 200 đaka, a danas je u novoj, suvremeno opremljenoj zgradi oko tristotinjak osnovaca. Škola se nalazi uklopljena u sportski centar Krbulja. \n                Poseban ponos Dobravčana je KUU "Seljačka Sloga", utemeljena kao Ogranak Seljačke Sloge Donja Dubrava još davne 1927. godine. Pored mnogih nastupa u zemlji i inozemstvu, udruga se već dugi niz godina iskazala kao vrlo uspješan organizator međimurske smotre folklora. Naravno, najpoznatija pjevačica i njegovateljica međimurske tradicionalne popijevke Elizabeta Toplek, rodom je i živi u Donjoj Dubravi. Danas se u Donjoj Dubravi mogu koristiti usluge pošte, banke, zdravstvene ambulante, zubne ambulante, veterinarske ambulante. Tu je benzinska crpka. Dobrovoljno vatrogasno društvo u Donjoj Dubravi oformljeno je davne 1888. godine.  Do sada su u DVD-u odrasle brojne generacije hrabrih i vrlo požrtvovnih vatrasaca. '
+            android:textColor="@android:color/black"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+
+    </ScrollView>
+
+</LinearLayout>
+
+
+
+
+
+

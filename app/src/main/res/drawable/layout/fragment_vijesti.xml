@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/grbpovijest2"
+    android:layout_height="match_parent"
+    tools:context=".VijestiFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+
+
+
+            android:text="KONTAKTI
+            \n
+
+
+ \nOpćina Donja Dubrava
+    \n Trg Republike 13
+   \n 40328 Donja Dubrava
+   \n Hrvatska
+    \n
+\n
+\n
+Tel: +385 (0)40 688-919
+\n
+\n
+Načelnik Mob: +385 (0)91 5048-052
+\n
+\n
+Fax: +385 (0)40 688-919
+
+\n
+\n
+\n
+PRAVNI PODACI
+\n
+\nOIB: 63140387407
+\nMATIČNI BROJ: 2556987
+\nIBAN: HR5523900011807800006
+
+
+
+
+    "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@android:color/black"
+            android:textSize="16sp"
+            android:textStyle="bold|italic"
+            android:layout_alignParentStart="true" />
+    </ScrollView>
+
+</RelativeLayout>
+

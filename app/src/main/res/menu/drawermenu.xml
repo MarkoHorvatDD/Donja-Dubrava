@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/povijest" android:title="Povijest"  android:icon="@drawable/baseline_history_black_24"/>
+    <item android:id="@+id/fotogalerija" android:title="Fotogalerija" android:icon="@drawable/ic_menu_gallery" />
+    <item android:id="@+id/osnovnaskola" android:title="Osnovna škola"  android:icon="@drawable/baseline_location_city_black_24"/>
+    <item android:id="@+id/activty_telefonski_imenik" android:title="Telefonski imenik Općine" android:icon="@drawable/baseline_people_black_24"/>
+
+
+    <item android:id="@+id/vijesti" android:title="Kontakt" android:icon="@drawable/baseline_list_alt_black_24"/>
+
+    <item android:id="@+id/kontakt" android:title="Pošalji E-mail Općini" android:icon="@drawable/baseline_email_black_24"/>
+
+    <item android:id="@+id/activty_map" android:title="Lokacija" android:icon="@drawable/baseline_location_searching_black_24"/>
+</menu>
+
